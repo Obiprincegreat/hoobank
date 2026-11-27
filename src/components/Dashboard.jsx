@@ -117,7 +117,7 @@ const DashboardView = () => {
 
             <Card className="min-h-[210px] p-4 sm:col-span-1 xl:col-span-4 lg:col-span-4 lg:min-h-0 lg:h-[min(36vh,236px)]">
               <div className="flex items-start justify-between"><h2 className="font-poppins text-sm font-medium text-white/90">Balance Overview</h2><a href="/dashboard/accounts" aria-label="Open accounts" title="Open accounts" className="grid h-6 w-6 place-items-center rounded-md border border-white/10 text-white/60 hover:text-white">↗</a></div>
-              <div className="mt-3 flex flex-wrap items-center gap-x-2.5 gap-y-1"><span className="font-poppins text-[15px] font-semibold tabular-nums">$45,045</span><span className="font-poppins text-[9px] text-emerald-400">↑ 12%</span><span className="font-poppins text-[9px] text-white/45">From last month</span></div>
+              <div className="mt-3 flex flex-wrap items-center gap-x-2.5 gap-y-1"><span className="font-poppins text-[15px] font-semibold tabular-nums">$155,045</span><span className="font-poppins text-[9px] text-emerald-400">↑ 12%</span><span className="font-poppins text-[9px] text-white/45">From last month</span></div>
               <div className="mt-2 flex gap-1.5"><span className="rounded-full bg-white/[0.07] px-2 py-1 font-poppins text-[8px] text-white/65">⇄ &nbsp;44 transactions</span><span className="rounded-full bg-white/[0.07] px-2 py-1 font-poppins text-[8px] text-white/65">◇ &nbsp;12 categories</span></div>
               <div className="mt-3 h-[76px] border-b border-white/[0.06]">
                 <svg viewBox="0 0 360 80" preserveAspectRatio="none" className="h-full w-full">
@@ -131,7 +131,7 @@ const DashboardView = () => {
 
             <Card className="min-h-[210px] p-4 sm:col-span-1 xl:col-span-4 lg:col-span-4 lg:min-h-0 lg:h-[min(36vh,236px)]">
               <div className="flex items-start justify-between"><h2 className="font-poppins text-sm font-medium text-white/90">Earnings</h2><a href="/dashboard/reports" aria-label="Open reports" title="Open reports" className="grid h-6 w-6 place-items-center rounded-md border border-white/10 text-white/60 hover:text-white">↗</a></div>
-              <div className="mt-3 flex items-center gap-2"><span className="font-poppins text-[15px] font-semibold tabular-nums">$45,045</span><span className="font-poppins text-[9px] text-emerald-400">↑ 7%</span><span className="font-poppins text-[9px] text-white/45">From last month</span></div>
+              <div className="mt-3 flex items-center gap-2"><span className="font-poppins text-[15px] font-semibold tabular-nums">$155,045</span><span className="font-poppins text-[9px] text-emerald-400">↑ 7%</span><span className="font-poppins text-[9px] text-white/45">From last month</span></div>
               <div className="relative mx-auto mt-2 h-[105px] max-w-[220px] overflow-hidden">
                 <svg viewBox="0 0 220 125" className="h-[125px] w-full" aria-label="58 percent of monthly goal">
                   <path d="M18 112 A92 92 0 0 1 202 112" fill="none" stroke="#343847" strokeWidth="18" strokeLinecap="round" />
